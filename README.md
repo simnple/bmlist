@@ -4,7 +4,7 @@ https://www.koreaminecraft.net/bmlist
 
 > 사용법
 
-```localhost:8000/bmlist?uuid=UUID```
+```localhost:8000/bmlist?uuid=069a79f4-44e9-4726-a5be-fca90e38aaf5```
 
 UUID는 "-" 가 포함된 상태로 검색하시는게 좋습니다.
 
