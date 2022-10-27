@@ -1,6 +1,6 @@
-## 한마포 비매너 DB 파싱
+## 한마포 비매너 DB 검색 API
 
-FastAPI
+https://www.koreaminecraft.net/bmlist
 
 > 사용법
 
